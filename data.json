@@ -1,0 +1,14 @@
+{
+  "1519166483014615080": {
+    "snipe_channel": 1519167102995529869,
+    "ticket_category": 1519166724732096552,
+    "welcome_config": {
+      "enabled": true,
+      "channel_id": 1519166483840635023,
+      "title": "Negra puta {mention}",
+      "description": "{user} hola negra",
+      "image_url": "{user_icon}",
+      "thumbnail_url": null
+    }
+  }
+}
